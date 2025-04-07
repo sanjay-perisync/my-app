@@ -23,7 +23,7 @@ const Blog = async ({ params }) => {
   //   next: { revalidate: 5 },}
   // );
   // const data = await response.json();
-  // console.log(data);
+
   return (
     <>
       <nav>
